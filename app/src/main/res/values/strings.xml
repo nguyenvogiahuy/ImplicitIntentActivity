@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentActivity</string>
+    <string name="button">Show Web Page</string>
+    <string name="show_web_page">Show Web Page</string>
+</resources>
